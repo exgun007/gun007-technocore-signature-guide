@@ -1,0 +1,9 @@
+# Never publish account credentials or working artifacts
+*_identity.pem
+flop_preparation_results.json
+technocore_flow_results.json
+*.json
+*.js
+*.py
+recon/
+node_modules/
